@@ -4,7 +4,7 @@ This project predicts **Life Expectancy** based on various **health, economic, a
 The app is built using **Streamlit** and trained on the **WHO Life Expectancy dataset**.
 
 ## App:
-
+https://endtoendml-1.streamlit.app/
 
 ## 🚀 Project Overview
 
